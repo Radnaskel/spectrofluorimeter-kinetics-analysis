@@ -161,6 +161,6 @@ Alexander Groshkov
 
 ## Acknowledgements
 
-This project was developed with the assistance of AI tools, including ChatGPT, which was used to support code structuring, debugging, and explanation of machine learning concepts.
+This project was developed with the assistance of AI tools, including ChatGPT, which was used to support code structuring and debugging.
 
 All modeling decisions, analysis, and interpretations were performed by the author.
