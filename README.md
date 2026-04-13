@@ -113,7 +113,7 @@ The observed spectral behavior is **consistent with reported properties of the p
 ## How to Run
 
 ```bash id="runblock"
-python kinetics.py m163A_conv.dat
+python kinetics.py spectral_data.dat
 ```
 
 ---
