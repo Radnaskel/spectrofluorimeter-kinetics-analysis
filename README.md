@@ -79,20 +79,10 @@ Kinetics were visualized using Jupyter Notebook.
 
 ## Interpretation
 
-The observed fluorescence behavior is consistent with a **biphotochromic fluorescent protein exhibiting multiple emissive states**.
+The observed fluorescence behavior is consistent with a **biphotochromic fluorescent protein exhibiting two emissive states**.
 
 * **400 nm excitation** enhances the green-emitting state (~520 nm)
 * **560 nm excitation** enhances the red-emitting state (~580 nm)
-
-This suggests the presence of at least two chromophore states and light-dependent transitions between them.
-
----
-
-## How to Run
-
-```bash
-python kinetics.py spectral_data.dat
-```
 
 ---
 
